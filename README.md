@@ -12,7 +12,7 @@ If you need contact me or know my work, please check...
 - 💻 [Github](https://github.com/felipefontoura)
 - 📄 [LinkedIn](https://www.linkedin.com/in/felipefontoura/)
 
-## TLDR;
+## TL;DR
 
 You can see more details about my Employment History and Experiences at [LinkedIn](https://www.linkedin.com/in/felipefontoura/)
 
