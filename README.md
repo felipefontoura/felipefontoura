@@ -43,7 +43,7 @@ Time to MVP: Days, not months 🚀
 
 ### 🚀 Recent Launches
 
-- 🤖 [Convexa] - A clever solution for chatbots.
+- 🤖 [Convexa](https://convexa.net) - A clever solution for chatbots.
 
 ### 👨‍🎓 Education & Learning
 
@@ -53,4 +53,3 @@ Yes, I have a CS degree from University of Vale do Paraíba (BSc, Computer Engin
 - 📖 Late night documentation deep-dives
 - 🎓 The University of Trial & Error
 - ☕️ Countless cups of coffee
-# felipefontoura
