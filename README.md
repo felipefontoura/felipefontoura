@@ -47,7 +47,7 @@ Time to MVP: Days, not months 🚀
 
 ### 👨‍🎓 Education & Learning
 
-Yes, I have a CS degree from University of Vale do Paraíba (BSc, Computer Engineering, 2001-2006), but my real education never stops. Most of what I know comes from:
+Yes, I have a BSc, Computer Engineering, 2001-2006, but my real education never stops. Most of what I know comes from:
 
 - 💡 Building real products
 - 📖 Late night documentation deep-dives
