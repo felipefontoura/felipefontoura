@@ -10,10 +10,10 @@ Think of me as a digital artisan in the age of mass-produced software. I craft w
 
 I occasionally emerge from my coding cave to share thoughts and creations:
 
-- 🚀 [Personal Site](https://felipefontoura.com) - Where my projects come to life
 - 💭 [X](https://x.com/felipefontoura) - Random thoughts about indie life
+- ▶️ [YouTube](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Where I share tutorials, experiments, and indie dev journeys
+- 🚀 [Blog](https://felipefontoura.com) - Where my projects come to life
 - 💻 [GitHub](https://github.com/felipefontoura) - Peek into my code sanctuary (here)
-- 🛠 [Product Hunt](#) - Hunt my latest launches
 
 ### 🎯 What I Do
 
@@ -33,10 +33,10 @@ In the fast-paced world of startups, choosing the right tools is crucial. That's
 ```
 ⚡️ Rapid Development Stack   🏗 Production Power
 ----------------------      -------------------
-Ruby on Rails               PostgreSQL
-Hotwire (Turbo+Stimulus)    Redis
-TailwindCSS                 Sidekiq
-ViewComponents              AWS/Heroku
+Ruby on Rails               Sqlite3
+Hotwire (Turbo+Stimulus)    ActiveJob
+TailwindCSS                 Kamal
+ERB
 ```
 
 Time to MVP: Days, not months 🚀
@@ -44,6 +44,7 @@ Time to MVP: Days, not months 🚀
 ### 🚀 Recent Launches
 
 - 🤖 [Convexa](https://convexa.net) - A clever solution for chatbots.
+- 🖋️ [CopyGenius](https://copygenius.pro) -  AI Agents to replace your marketing agency.
 
 ### 👨‍🎓 Education & Learning
 
