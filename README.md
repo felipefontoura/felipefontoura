@@ -1,56 +1,60 @@
-# Hi, i'm Felipe Fontoura ✌
+# Felipe Fontoura
 
-_family man && entrepreneur && software engineer_
+**Senior Backend Developer — Fintech & Bitcoin Infrastructure**
 
-When the world sleeps, I create. Armed with nothing but my trusty laptop and an endless supply of coffee, I'm a one-person army turning ideas into digital reality. No venture capital, no big teams – just pure passion and code flowing through my fingertips.
+Building payment gateways and exchange systems on the Liquid Network. 25+ years shipping production software, from satellite hardware at INPE to multi-currency checkout systems at TUI Group (23B EUR). Currently focused on bridging traditional payment rails to Bitcoin.
 
-Think of me as a digital artisan in the age of mass-produced software. I craft websites, build digital products, and breathe life into startup-style projects, all while the city lights twinkle outside my window.
+Bitcoin maximalist. 100% in. I don't advertise it — I just build on it.
 
-### 🌟 Where to Find Me
+---
 
-I occasionally emerge from my coding cave to share thoughts and creations:
+### What I'm Building
 
-- 💭 [X](https://x.com/felipefontoura) - Random thoughts about indie life
-- ▶️ [YouTube](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw) - Where I share tutorials, experiments, and indie dev journeys
-- 🚀 [Blog](https://felipefontoura.com) - Where my projects come to life
-- 💻 [GitHub](https://github.com/felipefontoura) - Peek into my code sanctuary (here)
+**[liqpay.net](https://liqpay.net)** — Payment gateway and OTC exchange on the Liquid Network. PIX (Brazil) → LIQ tokens → L-BTC / USDT, with on-chain settlement.
 
-### 🎯 What I Do
+`Node.js` `TypeScript` `Fastify` `Drizzle ORM` `PostgreSQL` `BullMQ` `Redis` `Elements Core` `Kubernetes` `Terraform`
 
-By day (and most nights), I'm a digital swiss army knife – part developer, part designer, part product strategist. I build and ship products that solve real problems, without the fancy VC pitch decks or corporate red tape.
+- 13-app monorepo (Turborepo), 3 Fastify APIs, 3 PostgreSQL databases
+- Provider-agnostic PIX integration (4 PSPs via factory pattern)
+- OTC exchange engine with VWAP pricing, 5-source price aggregation, asymmetric spreads
+- Exchange Settler with deposit detection, tolerance-based auto-refund, crash recovery
+- Full OAuth 2.1/OIDC auth server (5 roles, 19 scopes, JWKS, M2M)
+- Kubernetes (DOKS, HPA), Prometheus/Grafana, GitHub Actions CI/CD
 
-What makes me tick:
+LIQ Token on Liquid Network: [8a4053ef...707e](https://blockstream.info/liquid/asset/8a4053ef4b0ad70ee88284e3589829da3ac6f9ce9475c45802faf1f46627707e)
 
-- 🚀 Crafting indie SaaS products from zero to launch
-- 💡 Turning coffee into code and ideas into products
-- 🎨 Designing minimal, user-focused experiences
-- 📊 Growing products through clever automation and marketing
+---
 
-### 🛠 My Toolkit
+### Open Source
 
-In the fast-paced world of startups, choosing the right tools is crucial. That's why I swear by Ruby on Rails - it's the perfect weapon for turning ideas into profitable products at lightning speed:
+- [Aqua Wallet PR #104](https://github.com/AquaWallet/aqua-wallet/pull/104) — Surface balances for non-curated Liquid assets. Fund visibility fix touching GDK's asset registry + balance resolution, 11 unit tests.
+
+---
+
+### Stack
 
 ```
-⚡️ Rapid Development Stack   🏗 Production Power
-----------------------      -------------------
-Ruby on Rails               Sqlite3
-Hotwire (Turbo+Stimulus)    ActiveJob
-TailwindCSS                 Kamal
-ERB
+Backend                     Infrastructure              Bitcoin
+─────────────────────       ─────────────────────       ─────────────────────
+Node.js / TypeScript        Kubernetes (DOKS)           Liquid Network
+Fastify                     Terraform                   Elements Core (RPC)
+Drizzle ORM                 Docker                      Blockstream GDK
+PostgreSQL 17               GitHub Actions CI/CD        L-BTC / UTXO
+BullMQ / Redis              Prometheus / Grafana        Lightning Network
+Zod / Pino                  Cloudflare
 ```
 
-Time to MVP: Days, not months 🚀
+---
 
-### 🚀 Recent Launches
+### Other Projects
 
-- 🤖 [Convexa](https://convexa.net) - A clever solution for chatbots.
-- 🖋️ [CopyGenius](https://copygenius.pro) -  AI Agents to replace your marketing agency.
+- **JusPro** — Legal Tech for judicial document processing using Claude and Gemini APIs in production
+- **SmartDev Academy** — 30,000+ students trained across software engineering and AI-augmented development
+- **Spec-Driven Development** — Proven methodology for AI-assisted coding with Claude Code
 
-### 👨‍🎓 Education & Learning
+---
 
-Yes, I have a BSc, Computer Engineering, 2001-2006, but my real education never stops. Most of what I know comes from:
+### Links
 
-- 💡 Building real products
-- 📖 Late night documentation deep-dives
-- 🎓 The University of Trial & Error
-- ☕️ Countless cups of coffee
+- [LinkedIn](https://linkedin.com/in/felipefontoura)
+- [YouTube]([https://youtube.com/@DevSamurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw/) — 80,000+ subscribers
