@@ -4,7 +4,7 @@
 
 Building payment gateways and exchange systems on the Liquid Network. 25+ years shipping production software, from satellite hardware at INPE to multi-currency checkout systems at TUI Group (23B EUR). Currently focused on bridging traditional payment rails to Bitcoin using AI-driven development workflows.
 
-Bitcoin maximalist. 100% in. Just build on it.
+Bitcoin maximalist. 100% in. I don't advertise it — I just build on it.
 
 ---
 
@@ -25,6 +25,7 @@ Bitcoin maximalist. 100% in. Just build on it.
 
 ### Open Source
 
+- [AI Engineering Dotfiles](https://github.com/felipefontoura/dotfiles/tree/main/ai) — dozen slash commands, passive skills, agent teams config, review pipeline. The full AI-augmented development workflow, open source.
 - [Aqua Wallet PR #104](https://github.com/AquaWallet/aqua-wallet/pull/104) — Surface balances for non-curated Liquid assets. Fund visibility fix touching GDK's asset registry + balance resolution, 11 unit tests.
 
 ---
