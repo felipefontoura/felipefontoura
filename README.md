@@ -57,4 +57,4 @@ Zod / Pino                  Cloudflare
 ### Links
 
 - [LinkedIn](https://linkedin.com/in/felipefontoura)
-- [YouTube]([https://youtube.com/@DevSamurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw/) — 80,000+ subscribers
+- [YouTube](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw/) — 80,000+ subscribers
