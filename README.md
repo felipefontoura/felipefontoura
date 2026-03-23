@@ -4,7 +4,7 @@
 
 Building payment gateways and exchange systems on the Liquid Network. 25+ years shipping production software, from satellite hardware at INPE to multi-currency checkout systems at TUI Group (23B EUR). Currently focused on bridging traditional payment rails to Bitcoin.
 
-Bitcoin maximalist. 100% in. I don't advertise it — I just build on it.
+Bitcoin maximalist. 100% in. Just building on it.
 
 ---
 
