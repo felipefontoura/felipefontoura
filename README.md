@@ -1,68 +1,61 @@
 # Felipe Fontoura
 
-**Senior Backend Developer — Fintech & Bitcoin Infrastructure**
+**The code writes itself. The spec doesn't.**
 
-Building payment gateways and exchange systems on the Liquid Network. 25+ years shipping production software, from satellite hardware at INPE to multi-currency checkout systems at TUI Group (23B EUR). Currently focused on bridging traditional payment rails to Bitcoin using AI-driven development workflows.
+Staff Engineer | Spec Driven Development Practitioner | CTO & Builder
 
-Bitcoin maximalist. 100% in. I don't advertise it — I just build on it.
+I build production systems with AI agents using Spec Driven Development. 25+ years shipping software — from satellite drivers at INPE to checkout systems serving 20M+ customers at TUI Group (€23B revenue).
 
 ---
 
-### What I'm Building
+### What I Built
 
-**Payment Gateway & OTC Exchange on the Liquid Network** — Fiat on-ramp (PIX → tokens) with an exchange engine for trading against L-BTC and USDT, settled on-chain. Built in 70 days, solo, using AI-driven workflows. Private repo.
+**Crypto Fintech on the Liquid Network** — Complete payment gateway and OTC exchange. Built in 70 days, solo, using SDD + AI agents. Private repo.
 
-`Node.js` `TypeScript` `Fastify` `Drizzle ORM` `PostgreSQL` `BullMQ` `Redis` `Elements Core` `Kubernetes` `Terraform`
+`TypeScript` `Node.js` `Fastify` `PostgreSQL` `Kubernetes` `Terraform` `Redis` `BullMQ`
 
-- 13-app monorepo (Turborepo), 3 Fastify APIs, 3 PostgreSQL databases
-- Provider-agnostic PIX integration (4 PSPs via factory pattern)
-- OTC exchange engine with VWAP pricing, 5-source price aggregation, asymmetric spreads
-- Exchange Settler with deposit detection, tolerance-based auto-refund, crash recovery
-- Full OAuth 2.1/OIDC auth server (5 roles, 19 scopes, JWKS, M2M)
-- Kubernetes (DOKS, HPA), Prometheus/Grafana, GitHub Actions CI/CD
+- 13-app monorepo, 3 Fastify APIs, 3 PostgreSQL databases
+- PIX integration with 4 PSPs (factory pattern, HMAC-SHA256, mTLS)
+- OTC exchange engine — VWAP 24h, 5 sources, asymmetric spreads
+- Exchange Settler — on-chain polling, auto-refund, crash recovery
+- OAuth 2.1/OIDC (5 roles, 19 scopes, JWKS, M2M, 2FA TOTP)
+- Kubernetes (DOKS, HPA 2-10), Prometheus/Grafana, CI/CD
+
+---
+
+### Spec Driven Development
+
+I'm a practitioner of SDD — not the creator. My authority comes from applying it at scale.
+
+The methodology: structured specs (requirements → design → API contracts) as the single source of truth. AI agents execute. Humans review and ship.
+
+Used it to build the crypto fintech above. Trained 400+ professionals in AI-augmented workflows.
+
+→ [Read: Stop Prompting. Start Specifying.](https://www.linkedin.com/in/felipefontoura/recent-activity/articles/)
 
 ---
 
 ### Open Source
 
-- [AI Engineering Dotfiles](https://github.com/felipefontoura/dotfiles/tree/main/ai) — dozen slash commands, passive skills, agent teams config, review pipeline. The full AI-augmented development workflow, open source.
-
----
-
-### Spec-Driven Development (SDD)
-
-A methodology I developed for AI-assisted coding with Claude Code. Structured specs (requirements, design docs, API contracts) as the single source of truth for AI-generated implementations. Multi-agent patterns: architect, implementer, reviewer — each with defined boundaries and human approval gates.
-
-Used to build the 13-app fintech monorepo in 70 days. Trained 400+ professionals in the methodology.
-
-[Read the full article on LinkedIn](https://www.linkedin.com/in/felipefontoura/recent-activity/articles/)
+- [AI Engineering Dotfiles](https://github.com/felipefontoura/dotfiles/tree/main/ai) — Slash commands, agent teams, review pipeline. Full AI-augmented workflow.
 
 ---
 
 ### Stack
 
-```
-Backend                     Infrastructure              Bitcoin
-─────────────────────       ─────────────────────       ─────────────────────
-Node.js / TypeScript        Kubernetes (DOKS)           Liquid Network
-Fastify                     Terraform                   Elements Core (RPC)
-Ruby on Rails               Docker                      Blockstream GDK
-Drizzle ORM / ActiveRecord  GitHub Actions CI/CD        L-BTC / UTXO
-PostgreSQL 17               Prometheus / Grafana        Lightning Network
-BullMQ / Redis              Cloudflare
-```
-
----
-
-### Other Projects
-
-- **SmartMKT** — AI-powered SaaS (Ruby on Rails) for automated copywriting and video sales content. LLM integrations in production.
-- **JusPro** — Legal Tech for judicial document processing using Claude and Gemini APIs in production.
-- **SmartDev Academy** — 30,000+ students trained across software engineering and AI-augmented development.
+| Backend | Infrastructure |
+|---|---|
+| Node.js / TypeScript | Kubernetes (DOKS) |
+| Fastify / NestJS | Terraform |
+| Drizzle ORM / Prisma | Docker |
+| PostgreSQL | GitHub Actions CI/CD |
+| BullMQ / Redis | Prometheus / Grafana |
 
 ---
 
 ### Links
 
+- [Website](https://felipefontoura.com)
 - [LinkedIn](https://linkedin.com/in/felipefontoura)
-- [YouTube](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw/) — 80,000+ subscribers
+- [YouTube](https://www.youtube.com/@f.fontoura) — 80K+ subscribers
+- [X/Twitter](https://x.com/felipefontoura)
