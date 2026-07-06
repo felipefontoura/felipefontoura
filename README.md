@@ -1,10 +1,10 @@
 # Felipe Fontoura
 
-**The code writes itself. The spec doesn't.**
+**Engineered with AI.** Production systems that can't fail.
 
-Staff Engineer · Spec-Driven Development practitioner · CTO and builder
+Staff Engineer · Production Systems with AI · builder
 
-I build production systems with AI agents using Spec-Driven Development. 25+ years shipping software, from satellite drivers at INPE to the global checkout serving 20M+ customers at TUI Group (€23B revenue).
+I build secure, reliable, scalable systems with AI agents. 25+ years shipping production software, from satellite kernel drivers at INPE to the global checkout serving 20M+ customers at TUI Group (€23B revenue), to a crypto fintech built solo in 70 days.
 
 → [felipefontoura.com](https://felipefontoura.com)
 
@@ -12,7 +12,7 @@ I build production systems with AI agents using Spec-Driven Development. 25+ yea
 
 ### What I built
 
-A crypto fintech on Bitcoin's Liquid Network: a payment gateway, an OTC exchange, and on-chain settlement. Built solo in 70 days with SDD and AI agents. Private repo.
+A crypto fintech on Bitcoin's Liquid Network: a payment gateway, an OTC exchange, and on-chain settlement. Engineered solo in 70 days with AI agents. Private repo.
 
 `TypeScript` `Node.js` `Fastify` `PostgreSQL` `Kubernetes` `Terraform` `Redis` `BullMQ`
 
@@ -27,14 +27,14 @@ A crypto fintech on Bitcoin's Liquid Network: a payment gateway, an OTC exchange
 
 ---
 
-### Spec-driven development
+### How I build
 
-I practice SDD. I did not invent it. The authority comes from applying it at scale: 13 apps, 70 days, solo, in production. I have also trained 400+ people in AI-augmented workflows.
+Build the right thing, engineer it to hold, direct the agents that write it. The bar has always been production: satellites where a failed signal has no patch, a €23B checkout at 99.9% uptime, a fintech moving real money. The AI writes the code. The architecture, the specs, and the call on what "done" means are mine.
 
-The method is plain. Structured specs (requirements, design, tasks) are the source of truth. The agent executes against them. Humans review and ship.
+The method is plain: structured specs (requirements, design, tasks) are the source of truth, agents execute against them, humans review and ship. I have trained 400+ people in it.
 
 - [What Is Spec-Driven Development?](https://felipefontoura.com/articles/what-is-spec-driven-development), the complete guide
-- [Spec-Driven Development with Claude Code](https://felipefontoura.com/articles/spec-driven-development-with-claude-code), the hands-on workflow
+- [Harness Engineering](https://felipefontoura.com/articles/harness-engineering-ai-coding-agent), stop upgrading the model and fix the harness
 - [How to write a spec an AI can build from](https://felipefontoura.com/articles/how-to-write-a-spec), the EARS format and templates
 
 ---
@@ -49,7 +49,7 @@ The method is plain. Structured specs (requirements, design, tasks) are the sour
 
 ### Writing
 
-Notes on building production software with AI coding agents: spec-driven development, Claude skills, harness engineering.
+Notes on building production software with AI coding agents: harness engineering, spec-driven development, context, and architecture.
 
 → [felipefontoura.com/articles](https://felipefontoura.com/articles)
 
